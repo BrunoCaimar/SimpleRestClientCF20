@@ -10,7 +10,7 @@ Very Simple C# Rest Client for .NET Compact Framework 2.0 (VS 2005)
 Simple Example Usage:
 ---------------------
 
-'
+```
 string url = "https://api.github.com/";
 string resource = "repos";
 string resourceId = "brunocaimar/simplerestclientcf20";
@@ -21,4 +21,5 @@ GitRepository gitRepo = restClient.Get<GitRepository>(resourceId);
 
 // POST - HTTP Post to https://api.github.com/repos/
 restClient.Post(gitRepo);
-'
+```
+
