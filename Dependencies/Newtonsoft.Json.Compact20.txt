@@ -1,0 +1,8 @@
+Info about Newtonsoft.Json.Compact20.dll
+----------------------------------------
+2014-01-10 
+
+Download it from https://skydrive.live.com/?cid=3f2c3852778103e9&sc=documents&id=3F2C3852778103E9!188
+based on this discussion https://json.codeplex.com/discussions/74007
+
+No sources\license info available :-(
